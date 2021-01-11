@@ -5,11 +5,12 @@
 
 ## Description
 
+In this homework we were tasked with creating a Employee Tracker using a content management system interface using node, inquirer, MySql ect.
+the user will Add, view, and update departments,role, employees using the terminal.
 
-## Deployed Website
 
 ## Github Repository URL
-
+https://github.com/JakeDeines/homework-13
 
 ## Deployed Website Image
 
